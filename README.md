@@ -4,7 +4,7 @@ Cobri todas as classes exceto: emailserice porque não tem uma implementação s
 
 # Possibilidades para frontend
 
-- React
+## React
 
 **Prós:**
 
@@ -20,7 +20,7 @@ Curva de aprendizado: Embora a base do React seja simples, conceitos como hooks,
 
 Complexidade em grandes aplicações: Conforme a aplicação cresce, pode ser difícil manter o controle do estado global e da comunicação entre componentes, especialmente sem uma arquitetura bem definida.
 
-- Vue.js
+## Vue.js
 
 **Prós:**
 
@@ -32,7 +32,7 @@ Reatividade e bindings: A reatividade do Vue facilita a criação de interfaces 
 
 Escalabilidade: Em projetos muito grandes, a arquitetura do Vue pode ser um pouco mais difícil de gerenciar sem uma boa organização de código.
 
-- Angular
+## Angular
 
 **Prós:**
 
